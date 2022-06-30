@@ -1,4 +1,4 @@
-# **JavaSE学习代码**
+# **Code128_JavaSE学习代码**
 [**day01-复习回顾、静态、继承、模板设计模式、抽象类、final**](https://github.com/LMWC/JavaSE_Basic/tree/main/day01/src/com/itheima)  
 [**day02-static、接口、多态、内部类**](https://github.com/LMWC/JavaSE_Basic/tree/main/day02/src/com/itheima)  
 [**day03_权限修饰符、代码块、常用API**](https://github.com/LMWC/JavaSE_Basic/tree/main/day03/src/com/itheima)  
