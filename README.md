@@ -1,4 +1,5 @@
 # **JavaSE学习代码**
+=========================
 [**day01-复习回顾、静态、继承、模板设计模式、抽象类、final**](https://github.com/LMWC/JavaSE_Basic/tree/main/day01/src/com/itheima)  
 [**day02-static、接口、多态、内部类**](https://github.com/LMWC/JavaSE_Basic/tree/main/day02/src/com/itheima)  
 [**day03_权限修饰符、代码块、常用API**](https://github.com/LMWC/JavaSE_Basic/tree/main/day03/src/com/itheima)  
@@ -21,3 +22,9 @@
 - IntelliJ IDEA 2020.1.3 (Ultimate Edition)  
   Non-Bundled Plugins: JBLJavaToWeb, Lombook Plugin, mobi.hsz.idea.gitignore, MavenRunHelper,        com.baomidou.plugin.idea.mybatisx
 - jdk 1.8.0_162
+
+
+
+**学习资源**
+=========================
+[黑马程序员BiliBili官方账号](https://space.bilibili.com/37974444)
